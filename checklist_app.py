@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from datetime import datetime
 import os
-from fpdf import FPDF
+from fpdf2 import FPDF
 
 # Configuração da página
 st.set_page_config(
